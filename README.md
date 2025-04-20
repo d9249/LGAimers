@@ -1,5 +1,7 @@
 # LG Aimers
 
+![image](https://github.com/d9249/LGAimers/blob/main/image/LG.png)
+
 ## 4기 (24년 1월 ~ 24년 2월)
 
 <p align="center">
