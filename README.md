@@ -15,9 +15,3 @@ MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 (예선)
 <p align="center">
   <img src="./4th/Private.JPG">
 </p>
-
-## 5기 (24년 7월 ~ 24년 8월)
-
-<p align="center">
-  <img src="./5th/5th_Selection.JPG">
-</p>
